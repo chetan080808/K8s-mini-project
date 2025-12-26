@@ -1,4 +1,4 @@
-# Simple Notes App for TWS Community
+# Simple Notes App deployment on K8s for DevOps Community
 This is a simple notes app built with React and Django.
 
 ## Requirements
